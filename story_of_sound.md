@@ -1,23 +1,4 @@
 # শব্দের গল্প
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
+আমরা সময় পেলেই গান শুনি। গান জিনিসটা আসলে জড়িয়ে আছে আমাদের সবার সাথে। তবে এই গানকে মানে যিনি গানটা করেছেন অথবা যিনি গানটা রেকর্ডিং করেছেন, তাদের মনের মতো করে যদি শুনতে পাওয়া যেত? অর্থাৎ উনারা যেভাবে চেয়েছেন সেভাবে যদি শুনতে পেতাম? এটার একটা উপায় হতে পারে। যখন গানটা রেকর্ডিং হয়, তখন সেই রেকর্ডিং স্টুডিওতে সাউন্ড ইঞ্জিনিয়ার যেভাবে গানটা শুনেছেন, তার পাশে বসে সেভাবে যদি গানটা শুনতে পেতাম?
 
